@@ -1,0 +1,9 @@
+venv/
+key.txt
+__pycache__/
+*.joblib
+points.csv
+area_points.csv
+ndvi_*.csv
+feat_*.csv
+area_pred.csv
